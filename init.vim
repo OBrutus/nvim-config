@@ -73,6 +73,7 @@ set encoding=utf-8
 set textwidth=0
 set hidden
 set number
+set relativenumber
 set title
 set mouse=a
 
