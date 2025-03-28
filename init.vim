@@ -58,6 +58,9 @@ Plug 'neovim/nvim-lspconfig'
 Plug 'ray-x/go.nvim'
 " Plug 'ray-x/guihua.lua' ; recommended if need floating window support
 
+" Waka tracking
+Plug 'wakatime/vim-wakatime'
+
 call plug#end()
 
 """ Main Configurations
